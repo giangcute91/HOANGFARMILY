@@ -3,6 +3,6 @@
 	{ "id": 2, "pid": 1, "tags": ["partner"], "name": "Queen Elizabeth", "title": "The Queen Mother", "img": "https://cdn.balkan.app/shared/f2.png" },
 	{ "id": 3, "pid": 1, "tags": ["blue"],  "ppid": 2, "name": "Queen Elizabeth II", "img": "https://cdn.balkan.app/shared/f5.png"},
 	{ "id": 4, "pid": 3, "tags": ["left-partner"], "name": "Prince Philip", "title": "Duke of Edinburgh", "img": "https://cdn.balkan.app/shared/f3.png"}
-	{ "id": 5, "pid": 3, "ppid": 2,"tags": ["left-partner"], "name": "Prince Philip", "title": "Duke of Edinburgh", "img": "https://cdn.balkan.app/shared/f4.png"}
+	{ "id": 5, "pid": 1, "ppid": 2,"tags": ["left-partner"], "name": "Prince Philip", "title": "Duke of Edinburgh", "img": "https://cdn.balkan.app/shared/f6.png"}
 ]
 
