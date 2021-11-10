@@ -1,0 +1,7 @@
+[      
+	{ "id": 1, "pid": 0, "ppid": 0, "tags": "blue", "name": "King George VI", "title": "Top","address":"Thôn Trung Quán", "birthdate":"1991-11-20","deathdate":" ","sex":"male" ,"phone": "0387074404","img": "https://raw.githubusercontent.com/giangcute91/giangcute91/master/giang1.jpg"},
+	{ "id": 2, "pid": 1, "tags": ["partner"], "name": "Queen Elizabeth", "title": "The Queen Mother", "img": "https://cdn.balkan.app/shared/f2.png" },
+	{ "id": 3, "pid": 1, "tags": ["blue"],  "ppid": 2, "name": "Queen Elizabeth II", "img": "https://cdn.balkan.app/shared/f5.png"},
+	{ "id": 4, "pid": 3, "tags": ["left-partner"], "name": "Prince Philip", "title": "Duke of Edinburgh", "img": "https://cdn.balkan.app/shared/f3.png"}
+]
+
