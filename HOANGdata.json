@@ -1,5 +1,5 @@
 [
 {"id":1,"pid":0,"ppid":0,"tags":"blue","name":"Hoàng Giang","title":"Test1","address":"Thôn Trung Quán","birthdate":"1991-11-20","deathdate":" ","sex":"male","phone":"0387074404","img":"https://raw.githubusercontent.com/giangcute91/giangcute91/master/giang1.jpg"},
-{"id":2,"pid":1,"tags":"partner","name":"Vợ 1","title":"The Queen Mother","img":"https://cdn.balkan.app/shared/f2.png"},
+{"id":2,"pid":1,"tags":["partner"],"name":"Vợ 1","title":"The Queen Mother","img":"https://cdn.balkan.app/shared/f2.png"},
 {"id":3,"pid":1,"ppid":2,"tags":"blue","name":"Con 1","phone":"0387074404","img":"https://cdn.balkan.app/shared/f5.png"}
 ]
