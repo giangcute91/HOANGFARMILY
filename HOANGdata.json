@@ -4,7 +4,7 @@
 {"id":3,"pid":1,"tags":["node-with-subtrees"],"HoTen":"Hoàng Mỗ","MoTaNgan":"Đời thứ hai (II)","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
 {"id":4,"pid":3,"tags":["right-partner"],"HoTen":"Thị Mỗ","MoTaNgan":"Vợ đời thứ hai (II)","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
 {"id":5,"pid":3,"tags":["node-with-subtrees"],"HoTen":"Hoàng Mỗ","MoTaNgan":"Đời thứ ba (III)","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
-{"id":6,"pid":5,"tags":["right-partner"],"HoTen":"Thị Mỗ","MoTaNgan":"TieuSu","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
+{"id":6,"pid":5,"tags":["right-partner"],"HoTen":"Thị Mỗ","MoTaNgan":"Vợ đời thứ ba (III)","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
 {"id":7,"pid":5,"ppid":6,"HoTen":"Hoàng Hoàn","MoTaNgan":"Đời thứ tư (IV)","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
 {"id":8,"pid":7,"tags":["left-partner"],"HoTen":"Thị Mỗ","MoTaNgan":"Vợ đời thứ tư (IV)","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
 {"id":9,"pid":5,"ppid":6,"HoTen":"Hoàng Tước","MoTaNgan":"Đời thứ tư (IV)","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
