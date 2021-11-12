@@ -1,6 +1,6 @@
 ﻿id,pid,ppid,tags,HoTen,MoTaNgan,GioiTinh,TonGiao,QueQuan,DiaChiHienTai,NgheNghiep,CCCD,NamSinh,NamMat,NgaySinh,NgayMat,DienThoai,QuocTich,ViTriDangSong,ViTriPhanMo,GhiChu,TieuSu,HinhAnh
 1,0,0,blue,Hoàng Mỗ,Đời thứ nhất (I),Không rõ,Không,Không rõ,Không rõ,Không rõ,Không rõ,Không rõ,Không rõ,Không rõ,Không rõ,Không rõ,Việt Nam,"10.850018195713702,106.81270837783813","10.850018195713702,106.81270837783813",Ghi chú thêm,"Cây có cội, nước có nguồn, con người có Tiên Tổ. Dù ở đâu, làm gì củng phải nhớ đến cội nguồn. Phải biết tự hào về dòng họ để bản thân mình luôn luôn phấn đấu làm cho dòng họ được vẽ vang mãi mãi cùng thời gian. Gia phả  họ ta đã bị giặc đốt trong chiến tranh chống Pháp nên con cháu sau này không rỏ tên tuổi các bậc tiền bối !  Sau này- năm 1972 các cụ đời thứ 6, thứ 7 nhớ lại những điều ông cha truyền lại để xây dựng Gia phả mới. Biết rằng tổ tiên chúng ta từ Thanh Hóa vào lập nghiệp, tính đến năm 2002 Họ đã có 10 đời",https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
-2,1,,right-partner,Thị Mỗ,Vợ đời thứ nhất (I),,,,,,,,,,,473284789,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
+2,1,,right-partner,Thị Mỗ,Vợ đời thứ nhất (I),,,,,,,,,,,9999,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
 3,1,,node-with-subtrees,Hoàng Mỗ,Đời thứ hai (II),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 4,3,,right-partner,Thị Mỗ,Vợ đời thứ hai (II),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
 5,3,,node-with-subtrees,Hoàng Mỗ,Đời thứ ba (III),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
@@ -16,22 +16,22 @@
 15,9,10,,Hoàng Ích,Đời thứ năm (V),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 16,9,11,,Hoàng Huệ,Đời thứ năm (V),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 17,9,11,,Hoàng Thúc,Đời thứ năm (V),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
-18,9,11,,Hoàng Tề,Đời thứ năm (V),,,,,,,,,,1948-09-25,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
+18,9,11,,Hoàng Tề,Đời thứ năm (V),,,,,,,,,,9/25/1948,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 19,9,11,,Hoàng Uyển,Đời thứ năm (V),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 20,12,13,,Hoàng Tân,Đời thứ năm (V),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
-21,18,,left-partner,Trần Thị Phiên,Vợ dời thứ năm (V),,,,,,,,,,1955-02-05,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
-22,18,,right-partner,Trần Thị Rằng,Vợ đời thứ năm (V),,,,,,,,,,9999-09-05,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
-23,18,21,,Hoàng Cầu,Đời thứ sáu (VI),,,,,,,1910,1951,,1951-04-21,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
+21,18,,left-partner,Trần Thị Phiên,Vợ dời thứ năm (V),,,,,,,,,,2/5/1955,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
+22,18,,right-partner,Trần Thị Rằng,Vợ đời thứ năm (V),,,,,,,,,,9/5/9999,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
+23,18,21,,Hoàng Cầu,Đời thứ sáu (VI),,,,,,,1910,1951,,4/21/1951,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 24,18,21,,Hoàng Cay,Đời thứ sáu (VI) - (Vô tự-mất hồi còn nhỏ),,,,,,,1910,1951,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 25,18,21,,Hoàng Đẳng,Đời thứ sáu (VI),,,,,,,1915,1992,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
-26,18,21,,Hoàng Đảng,Đời thứ sáu (VI),,,,,,,1918,1992,,1992-09-01,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
+26,18,21,,Hoàng Đảng,Đời thứ sáu (VI),,,,,,,1918,1992,,9/1/1992,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 27,18,21,,Hoàng Thị Miên,Đời thứ sáu (VI),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
 28,18,21,,Hoàng Thị Thiên,Đời thứ sáu (VI),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
 29,18,21,,Hoàng Thị ...,Đời thứ sáu (VI)-Mẹ VN Anh Hùng,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
 30,18,21,,Hoàng Thị Niêng,Đời thứ sáu (VI)-Vô tự,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
 31,18,21,,Hoàng Thị Mỗ,Đời thứ sáu (VI)-Sa sẩy,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
 32,18,21,,Hoàng Thị Trà,Đời thứ sáu (VI)-Vô tự,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
-33,23,,left-partner,Đặng Thị Hải,,,,,,,,1911,2001,,2001-10-15,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
+33,23,,left-partner,Đặng Thị Hải,,,,,,,,1911,2001,,10/15/2001,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
 34,25,,left-partner,Bà Pháp,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
 35,25,,right-partner,Bà Hoàng Sao,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
 36,26,,left-partner,Đặng Thị Trang,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
@@ -39,11 +39,11 @@
 38,28,,left-partner,Chồng Họ Trần,,,,,,,,,,,,,,,,,,
 39,30,,left-partner,Chồng Xa,,,,,,,,,,,,,,,,,,
 40,32,,left-partner,Chồng làng Hiển,,,,,,,,,,,,,,,,,,
-41,18,22,,Hoàng Đủng,Đời thứ sáu (VI),,,,,,,1915,1996,,1996-05-09,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
+41,18,22,,Hoàng Đủng,Đời thứ sáu (VI),,,,,,,1915,1996,,5/9/1996,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 42,18,22,,Hoàng Đúng,"Đời thứ sáu (VI)- Vô tự, mất hồi nhỏ",,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
-43,18,22,,Hoàng Đính,"Đời thứ sáu (VI)- Vô tự, chạy giặc bị Pháp bắn chết",,,,,,,,,,1951-04-16,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
+43,18,22,,Hoàng Đính,"Đời thứ sáu (VI)- Vô tự, chạy giặc bị Pháp bắn chết",,,,,,,,,,4/16/1951,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 44,18,22,,Hoàng Thị Đỉnh,Đời thứ sáu (VI),,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
-45,41,,left-partner,Trần Thị Thoài,,,,,,,,1911,2001,,2001-12-28,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
+45,41,,left-partner,Trần Thị Thoài,,,,,,,,1911,2001,,12/28/2001,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
 46,44,,left-partner,Chồng làng Trần Xá,,,,,,,,,,,,,,,,,,
 47,15,,assistant,Nhánh thứ nhất,Đời thứ bảy (VII),,,,,,,,,,,,,,,,,https://cdn.balkan.app/shared/empty-img-blue.svg
 48,16,,assistant,Nhánh thứ hai,Đời thứ bảy (VI),,,,,,,,,,,,,,,,,https://cdn.balkan.app/shared/empty-img-blue.svg
@@ -56,7 +56,7 @@
 55,50,,DAIDIEN,Người đại diện 4,(Nhánh 4),,,,,,,,,,,,,,,,,https://cdn.balkan.app/shared/empty-img-white.svg
 56,51,,DAIDIEN,Người đại diện 5,(Nhánh 5),,,,,,,,,,,,,,,,,https://cdn.balkan.app/shared/empty-img-white.svg
 57,23,33,,Hoàng Thị Hàng,Quý Dậu 1933,,,,,,,1933,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
-58,23,33,,Hoàng Hoa Kỳ,"Ất Hợi 10/12/1935, Đại học toán 1964",,,,,,,1935,,,1935-12-10,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
+58,23,33,,Hoàng Hoa Kỳ,"Ất Hợi 10/12/1935, Đại học toán 1964",,,,,,,1935,,,12/10/1935,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 59,23,33,,Hoàng Ngọc Trí,Kỷ Mão 1939 - Công nhân kỹ thuật,,,,,,,1939,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 60,23,33,,Hoàng Trọng Quế,Nhâm Ngọ 1942 - Lớp 7,,,,,,,1942,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
 61,23,33,,Hoàng Thị Tuế,Dạy học - Mất sớm do bom Mỹ,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
@@ -160,5 +160,5 @@
 159,156,,left-partner,Phạm Thị Ngọc Linh,Nhâm Tuất 7/2/1982 Đại học,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg
 160,157,,left-partner,Nguyễn Thanh Hải,"Kỷ Mùi,22/8/1979 ThS Nông Lâm",,,,,,,,,,,,,,,,,
 161,76,81,,Hoàng Thị Mỹ Hằng,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png
-162,76,81,,Hoàng Giang,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg
+162,76,81,,Hoàng Giang,,,,,,,,,,,,,,,,,,https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/giang1.jpg
 163,161,,left-partner,Võ Kim Mạnh,,,,,,,,,,,,,,,,,,
