@@ -12,7 +12,7 @@
 {"id":11,"tags":["right-partner"],"name":"Đặng Thị Ất","title":"Vợ đời thứ tư (IV)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg","pid":9},
 {"id":12,"name":"Hoàng Thước","title":"Đời thứ tư (IV)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg","pid":5,"ppid":6},
 {"id":13,"tags":["left-partner"],"name":"Thị Mỗ","title":"Vợ đời thứ tư (IV)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg","pid":12},
-{"id":14,"tags":["3nu"],"name":"3 cụ nữ","title":"Đời thứ tư (IV)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png","pid":5,"ppid":6},
+{"id":14,"tags":["NU"],"name":"3 cụ nữ","title":"Đời thứ tư (IV)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png","pid":5,"ppid":6},
 {"id":15,"name":"Hoàng Ích","title":"Đời thứ năm (V)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg","pid":9,"ppid":10},
 {"id":16,"name":"Hoàng Huệ","title":"Đời thứ năm (V)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg","pid":9,"ppid":11},
 {"id":17,"name":"Hoàng Thúc","title":"Đời thứ năm (V)","img":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg","pid":9,"ppid":11},
