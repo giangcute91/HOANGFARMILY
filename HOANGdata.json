@@ -1,5 +1,5 @@
 ﻿[
-{"id":1,"tags":["blue"],"ho_ten":"Hoàng Mỗ","mot_ta_ngan":"Đời thứ nhất (I)","hinh_anh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
+{"id":1,"pid":0,"ppid":0,"tags":["blue"],"ho_ten":"Hoàng Mỗ","mot_ta_ngan":"Đời thứ nhất (I)","diachi":"Không rõ","nam_sinh":"Không rõ","nam_mat":"Không rõ","ngay_sinh":"Không rõ","ngay_mat":"Không rõ","dien_thoai":"Không rõ","hinh_anh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
 {"id":2,"pid":1,"tags":["right-partner"],"ho_ten":"Thị Mỗ","mot_ta_ngan":"Vợ đời thứ nhất (I)","hinh_anh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
 {"id":3,"pid":1,"tags":["node-with-subtrees"],"ho_ten":"Hoàng Mỗ","mot_ta_ngan":"Đời thứ hai (II)","hinh_anh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
 {"id":4,"pid":3,"tags":["right-partner"],"ho_ten":"Thị Mỗ","mot_ta_ngan":"Vợ đời thứ hai (II)","hinh_anh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
