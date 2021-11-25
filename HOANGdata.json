@@ -9,7 +9,7 @@
 {"id":8,"pid":7,"tags":["left-partner"],"HoTen":"Thị Mỗ","MoTaNgan":"Vợ đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
 {"id":9,"pid":5,"ppid":6,"HoTen":"Hoàng Tước","MoTaNgan":"Đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
 {"id":10,"pid":9,"tags":["left-partner"],"HoTen":"Đoàn Thị Gián","MoTaNgan":"Vợ đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
-{"id":11,"pid":9,"tags":["right-partner"],"HoTen":"Đặng Thị Ất","MoTaNgan":"Vợ đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
+{"id":11,"pid":9,"tags":["left-partner"],"HoTen":"Đặng Thị Ất","MoTaNgan":"Vợ đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
 {"id":12,"pid":5,"ppid":6,"HoTen":"Hoàng Thước","MoTaNgan":"Đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/male.jpg"},
 {"id":13,"pid":12,"tags":["left-partner"],"HoTen":"Thị Mỗ","MoTaNgan":"Vợ đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/wife.jpg"},
 {"id":14,"pid":5,"ppid":6,"tags":["NU"],"HoTen":"3 cụ nữ","MoTaNgan":"Đời thứ tư (IV)","TheHe":"IV","HinhAnh":"https://raw.githubusercontent.com/giangcute91/HOANGFARMILY/main/female.png"},
